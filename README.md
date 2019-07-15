@@ -1,1 +1,5 @@
-# StepCounter-WorkoutPlanner.github.io
+## 代码说明
+
+说明:
+* 这是一个app的官网的代码
+* 包含健身和计步器

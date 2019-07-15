@@ -1,0 +1,41 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    font-family: PingFangSC-Regular, sans-serif;
+}
+header {
+    width: 100%;
+    height: 60px;
+    border-bottom: 2px solid #f0f1f2;
+    padding: 0px 20px;
+    box-sizing: border-box;
+}
+header ul {
+    margin: 0px;
+    padding: 0px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+header li {
+    list-style-type: none;
+    float: left;
+    margin-right: 20px;
+}
+header a {
+    color: #000;
+    line-height: 60px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+header a:hover {
+    text-decoration: underline;
+}
+header li.on a {
+    text-decoration: underline;
+}
+#app {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
